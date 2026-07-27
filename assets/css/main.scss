@@ -17,9 +17,14 @@ $max-width: 1440px;
 
   .pub-title,
   .pub-author,
-  .pub-journal,
-  .pub-pdf {
+  .pub-journal {
     display: block;
+  }
+
+  .pub-links {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5em;
   }
 
   summary {

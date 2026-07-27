@@ -8,12 +8,14 @@ author_profile: true
 <li class="pub-entry">
   <div class="pub-title"><strong>Complexity and Satisficing: Theory with Evidence from Chess</strong></div>
   <div class="pub-author">Yuval Salant and Jörg L. Spenkuch</div>
-  <details class="pub-abstract">
-    <summary>[Abstract]</summary>
-    <p style="font-size: 0.85em; line-height: 0.85; text-align: justify;">We develop a satisficing model of choice in which the available alternatives differ in their inherent complexity. We assume—and experimentally validate—that complexity leads to errors in the perception of alternatives' values. The model yields sharp predictions about the effect of complexity on choice probabilities, some of which qualitatively contrast with those of maximization-based choice models. We confirm the predictions of the satisficing model—and thus reject maximization—in a novel data set with information on hundreds of millions of real-world chess moves by highly experienced players. Looking beyond chess, our work offers a blueprint for incorporating complexity at the level of individual objects into models of choice and for detecting satisficing outside of the laboratory.</p>
-  </details>
-  <div class="pub-pdf">[<a href="/files/papers/2026_complexity_and_satisficing_chess.pdf">PDF</a>]</div>
   <div class="pub-journal"><em>Review of Economic Studies</em>, 93 (2026), 1296–1322.</div>
+  <div class="pub-links">
+    <details class="pub-abstract">
+      <summary>[Abstract]</summary>
+      <p style="font-size: 0.85em; line-height: 0.85; text-align: justify;">We develop a satisficing model of choice in which the available alternatives differ in their inherent complexity. We assume—and experimentally validate—that complexity leads to errors in the perception of alternatives' values. The model yields sharp predictions about the effect of complexity on choice probabilities, some of which qualitatively contrast with those of maximization-based choice models. We confirm the predictions of the satisficing model—and thus reject maximization—in a novel data set with information on hundreds of millions of real-world chess moves by highly experienced players. Looking beyond chess, our work offers a blueprint for incorporating complexity at the level of individual objects into models of choice and for detecting satisficing outside of the laboratory.</p>
+    </details>
+    <span class="pub-pdf">[<a href="/files/papers/2026_complexity_and_satisficing_chess.pdf">PDF</a>]</span>
+  </div>
 </li>
 </ul>
 
