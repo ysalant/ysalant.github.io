@@ -1,0 +1,74 @@
+# ===============================
+# SITE IDENTITY — REPLACE THESE
+# ===============================
+title: "Yuval Salant"
+name: "Yuval Salant"
+email: "y-salant@kellogg.northwestern.edu"
+description: >-
+  Personal academic homepage of Yuval Salant.
+
+# The URL your GitHub Pages site will be served from.
+# If this repo is named "<username>.github.io", url is just that, baseurl "".
+# If this is a project repo instead, url is "https://<username>.github.io"
+# and baseurl is "/<repo-name>".
+url: "https://ysalant.github.io"
+baseurl: ""
+
+# ===============================
+# THEME
+# ===============================
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# ===============================
+# AUTHOR / SIDEBAR PROFILE
+# ===============================
+author:
+  name: "Yuval Salant"
+  avatar: "/assets/images/bio-photo.jpg" # REPLACE: upload your photo here
+  bio: "[SHORT ONE-LINE BIO, e.g. Professor of Managerial Economics & Decision Sciences, Kellogg School of Management]"
+  location: "Evanston, IL"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:y-salant@kellogg.northwestern.edu"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/cv.pdf" # REPLACE: upload your CV here
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "[YOUR GOOGLE SCHOLAR URL]"
+    - label: "Kellogg Directory"
+      icon: "fas fa-fw fa-university"
+      url: "[YOUR KELLOGG FACULTY DIRECTORY URL]"
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:y-salant@kellogg.northwestern.edu"
+
+# ===============================
+# DEFAULTS — every page/post gets these unless overridden
+# ===============================
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
+words_per_minute: 200
+
+include:
+  - _pages
