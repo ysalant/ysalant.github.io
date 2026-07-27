@@ -33,18 +33,17 @@ author:
   name: "Yuval Salant"
   avatar: "/assets/images/bio-photo.jpg" # REPLACE: upload your photo here
   bio: "[SHORT ONE-LINE BIO, e.g. Professor of Managerial Economics & Decision Sciences, Kellogg School of Management]"
-  location: "Evanston, IL"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:y-salant@kellogg.northwestern.edu"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/files/cv.pdf" # REPLACE: upload your CV here
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:y-salant@kellogg.northwestern.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=wgH7YN4AAAAJ"
-    - label: "Kellogg Directory"
+    - label: "Kellogg Page"
       icon: "fas fa-fw fa-university"
       url: "https://www.kellogg.northwestern.edu/academics-research/faculty/salant_yuval/"
 
