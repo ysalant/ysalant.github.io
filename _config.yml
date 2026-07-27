@@ -32,7 +32,7 @@ plugins:
 author:
   name: "Yuval Salant"
   avatar: "/assets/images/bio-photo.jpg" # REPLACE: upload your photo here
-  bio: "[SHORT ONE-LINE BIO, e.g. Professor of Managerial Economics & Decision Sciences, Kellogg School of Management]"
+  bio: "Harold L. Stuart Professor of Managerial Economics & Decision Sciences"
   links:
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
