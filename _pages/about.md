@@ -4,6 +4,6 @@ permalink: /about/
 author_profile: true
 ---
 
-I am the Harold L. Stuart Professor of Managerial Economics & Decision Sciences at the Kellogg School of Management, Northwestern University. I received my Ph.D. in Economic Analysis and Policy from Stanford University's Graduate School of Business in 2008. My research focuses on the behavioral economics and bounded rationality. My work has appeared in journals including the American Economic Review, Econometrica, the Review of Economic Studies, and Theoretical Economics, among others.
+I am the Harold L. Stuart Professor of Managerial Economics & Decision Sciences at the Kellogg School of Management, Northwestern University. I received my Ph.D. in Economic Analysis and Policy from Stanford University's Graduate School of Business in 2008. My research focuses on the behavioral economics and bounded rationality. 
 
 For more information, please see my [CV](/vita.pdf).
