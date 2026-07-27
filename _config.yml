@@ -46,7 +46,7 @@ author:
       url: "[YOUR GOOGLE SCHOLAR URL]"
     - label: "Kellogg Directory"
       icon: "fas fa-fw fa-university"
-      url: "[YOUR KELLOGG FACULTY DIRECTORY URL]"
+      url: "https://www.kellogg.northwestern.edu/academics-research/faculty/salant_yuval/"
 
 footer:
   links:
