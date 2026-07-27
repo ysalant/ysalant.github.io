@@ -36,7 +36,7 @@ author:
   links:
     - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/files/cv.pdf" # REPLACE: upload your CV here
+      url: "/vita.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:y-salant@kellogg.northwestern.edu"
