@@ -34,7 +34,7 @@ author:
   avatar: "/assets/images/bio-photo.jpg" # REPLACE: upload your photo here
   bio: "<font size=\"-1\">Harold L. Stuart Professor of Managerial Economics & Decision Sciences<br>Kellogg School of Management<br>Northwestern University</font>"
   links:
-    - label: "CV"
+    - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/files/cv.pdf" # REPLACE: upload your CV here
     - label: "Email"
@@ -43,7 +43,7 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=wgH7YN4AAAAJ"
-    - label: "Kellogg Page"
+    - label: "Kellogg Website"
       icon: "fas fa-fw fa-university"
       url: "https://www.kellogg.northwestern.edu/academics-research/faculty/salant_yuval/"
 
