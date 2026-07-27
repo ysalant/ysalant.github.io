@@ -11,3 +11,27 @@ $max-width: 1440px;
 .site-title {
   display: none;
 }
+
+.pub-entry {
+  margin-bottom: 1.5em;
+
+  .pub-title,
+  .pub-author,
+  .pub-journal {
+    display: block;
+  }
+
+  summary {
+    cursor: pointer;
+    color: $link-color;
+    list-style: none;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  summary::marker {
+    content: "";
+  }
+}
