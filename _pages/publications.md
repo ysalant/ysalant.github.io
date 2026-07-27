@@ -139,7 +139,7 @@ author_profile: true
 </li>
 <li class="pub-entry">
   <div class="pub-title"><strong>(A, f): Choice with Frames</strong></div>
-  <div class="pub-author">Ariel Rubinstein and Yuval Salant</div>
+  <div class="pub-author">Yuval Salant and Ariel Rubinstein</div>
   <div class="pub-journal"><em>Review of Economic Studies</em>, 75 (2008), No. 4, 1287–1296.</div>
   <div class="pub-links">
     <details class="pub-abstract">
