@@ -12,6 +12,55 @@ $max-width: 1440px;
   display: none;
 }
 
+.author__name {
+  display: none;
+}
+
+$dark-bg: #1a1a1a;
+$dark-fg: #f0f0f0;
+$dark-link: #8ab4f8;
+
+body {
+  background-color: $dark-bg;
+  color: $dark-fg;
+}
+
+.masthead {
+  background-color: $dark-bg;
+  border-bottom-color: #333;
+}
+
+.masthead__menu-item a {
+  color: $dark-fg;
+}
+
+.sidebar {
+  background-color: $dark-bg;
+  color: $dark-fg;
+
+  a {
+    color: $dark-link;
+  }
+}
+
+.page__content,
+.archive {
+  color: $dark-fg;
+
+  a {
+    color: $dark-link;
+  }
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title {
+  color: $dark-fg;
+}
+
+.pub-list {
+  margin-top: 2em;
+}
+
 .pub-entry {
   margin-bottom: 1.5em;
 
@@ -29,7 +78,7 @@ $max-width: 1440px;
 
   summary {
     cursor: pointer;
-    color: $link-color;
+    color: $dark-link;
     list-style: none;
   }
 
