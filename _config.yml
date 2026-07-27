@@ -31,12 +31,12 @@ plugins:
 # ===============================
 author:
   name: "Yuval Salant"
-  avatar: "/yuval.jpg"
+  avatar: "/files/yuval.jpg"
   bio: "<span style=\"line-height: 1.2;\">Harold L. Stuart Professor of Managerial Economics & Decision Sciences<br>Kellogg School of Management<br>Northwestern University</span>"
   links:
     - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/vita.pdf"
+      url: "/files/vita.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:y-salant@kellogg.northwestern.edu"
