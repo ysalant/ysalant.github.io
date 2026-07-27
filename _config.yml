@@ -43,7 +43,7 @@ author:
       url: "/assets/files/cv.pdf" # REPLACE: upload your CV here
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "[YOUR GOOGLE SCHOLAR URL]"
+      url: "https://scholar.google.com/citations?hl=en&user=wgH7YN4AAAAJ"
     - label: "Kellogg Directory"
       icon: "fas fa-fw fa-university"
       url: "https://www.kellogg.northwestern.edu/academics-research/faculty/salant_yuval/"
