@@ -8,7 +8,7 @@ author_profile: true
 <li class="pub-entry">
   <div class="pub-title"><strong>Complexity and Satisficing: Theory with Evidence from Chess</strong></div>
   <div class="pub-author">Yuval Salant and Jörg L. Spenkuch</div>
-  <div class="pub-journal"><em>Review of Economic Studies</em>, 93 (2026), 1296–1322.</div>
+  <div class="pub-journal"><em>Review of Economic Studies</em>, 93 (2026), No. 2, 1296–1322.</div>
   <div class="pub-links">
     <details class="pub-abstract">
       <summary>[Abstract]</summary>
@@ -20,7 +20,7 @@ author_profile: true
 <li class="pub-entry">
   <div class="pub-title"><strong>Optimal Sample Sizes and Statistical Decision Rules</strong></div>
   <div class="pub-author">Yuval Salant and Sanket Patil</div>
-  <div class="pub-journal"><em>Theoretical Economics</em>, 19 (2024), 583–604.</div>
+  <div class="pub-journal"><em>Theoretical Economics</em>, 19 (2024), No. 2, 583–604.</div>
   <div class="pub-links">
     <details class="pub-abstract">
       <summary>[Abstract]</summary>
